@@ -1,5 +1,7 @@
 # CIT 281
 
+[](james-harrison-vpOeXr5wmR4-unsplash.jpg)
+
 ## Labs 
 
 ### [Lab 1](https://adeere6.github.io/CIT281-lab1/)
