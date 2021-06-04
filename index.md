@@ -1,39 +1,55 @@
-https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y29kZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60
+# CIT Minor
+## CIT 281
 
-## Welcome to GitHub Pages
+## Labs 
 
-You can use the [editor on GitHub](https://github.com/adeere6/CIT-minor/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Lab-01
+Practice using software tools, shell comands, and keyboard shortcuts. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Lab-02
+Use CLI commands for directory, file manipulation, and git commands. 
 
-### Markdown
+### Lab-03
+Practice refactoring JavaScript code to use more modern syntax, destructuring an object, and converting normal functions into arrow function expressions.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Lab-04
+Create initial Fastify Node.js web server, and initialize as a Node.js project folder using Node Package Manager (npm).
 
-```markdown
-Syntax highlighted code block
+### Lab-05
+Learn POSTMAN and POST requests.
 
-# Header 1
-## Header 2
-### Header 3
+### Lab-06
+Join GitHub and create classes.
 
-- Bulleted
-- List
+### Lab-07
+Create your own GitHub organization for the CIT Minor, and create your first GitHub repository.
 
-1. Numbered
-2. List
+### Lab-08
+Create lab file and initialize Node.js folder, install node-fetch package, and add fastify starter code.
 
-**Bold** and _Italic_ and `Code` text
+### Lab-09
+Create Learning Lab course/repo within your GitHub account, and practice exiting and returning to the course from course repo.
+ 
+## Projects 
+### P1
+Gain experience accessing command line interface, working with CLI commands, and Visual Studio Code.
 
-[Link](url) and ![Image](src)
-```
+### P2
+Gain experience using git via your CLI and Visual Studio Code (VSCode) Source Control, writing and executing non-web server Node.js JavaScript code, and practice refactoring JavaScript code.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### P3
+Gain experience writing and executing web server Node.js JavaScript code using VSCode, using Fastify with the GET verb, routes, and query parameters, and loading a file and using as a web page.
 
-### Jekyll Themes
+### P4
+Gain experience using Fastify with the GET verb, routes, and route parameters, working with static data, testing code module without using a web server, and using Postman to test web server routes.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adeere6/CIT-minor/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### P5
+Gain experience working with classes, including class constructors and methods, and working with objects and arrays. 
 
-### Support or Contact
+### P6
+Gain experience creating and working classes with inheritance, and debugging code. 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### P7
+Gain more experience working with GitHub repos, and pages
+
+
