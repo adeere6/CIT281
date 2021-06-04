@@ -1,5 +1,4 @@
-# CIT Minor
-## CIT 281
+# CIT 281
 
 ## Labs 
 
