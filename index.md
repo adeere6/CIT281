@@ -2,7 +2,7 @@
 
 ## Labs 
 
-### Lab-01
+### https://adeere6.github.io/cit281-lab1/ Lab-01
 Practice using software tools, shell comands, and keyboard shortcuts. 
 
 ### Lab-02
