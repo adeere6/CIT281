@@ -30,25 +30,25 @@ Create lab file and initialize Node.js folder, install node-fetch package, and a
 Create Learning Lab course/repo within your GitHub account, and practice exiting and returning to the course from course repo.
  
 ## Projects 
-### [P1](https://adeere6.github.io/CIT281-p1/)
+### [Project 1](https://adeere6.github.io/CIT281-p1/)
 Gain experience accessing command line interface, working with CLI commands, and Visual Studio Code.
 
-### [P2](https://adeere6.github.io/CIT281-p2/)
+### [Project 2](https://adeere6.github.io/CIT281-p2/)
 Gain experience using git via your CLI and Visual Studio Code (VSCode) Source Control, writing and executing non-web server Node.js JavaScript code, and practice refactoring JavaScript code.
 
-### [P3](https://adeere6.github.io/CIT281-p3/)
+### [Project 3](https://adeere6.github.io/CIT281-p3/)
 Gain experience writing and executing web server Node.js JavaScript code using VSCode, using Fastify with the GET verb, routes, and query parameters, and loading a file and using as a web page.
 
-### [P4](https://adeere6.github.io/CIT281-p4/)
+### [Project 4](https://adeere6.github.io/CIT281-p4/)
 Gain experience using Fastify with the GET verb, routes, and route parameters, working with static data, testing code module without using a web server, and using Postman to test web server routes.
 
-### [P5](https://adeere6.github.io/CIT281-p5/)
+### [Project 5](https://adeere6.github.io/CIT281-p5/)
 Gain experience working with classes, including class constructors and methods, and working with objects and arrays. 
 
-### [P6](https://adeere6.github.io/CIT281-p6/)
+### [Project 6](https://adeere6.github.io/CIT281-p6/)
 Gain experience creating and working classes with inheritance, and debugging code. 
 
-### [P7](https://adeere6.github.io/CIT281-p7/)
+### [Project 7](https://adeere6.github.io/CIT281-p7/)
 Gain more experience working with GitHub repos, and pages
 
 
